@@ -1,0 +1,10 @@
+C:\InternetCafeProject\AdminServer\adminform\adminform\bin\Debug\adminform.exe.config
+C:\InternetCafeProject\AdminServer\adminform\adminform\bin\Debug\adminform.exe
+C:\InternetCafeProject\AdminServer\adminform\adminform\bin\Debug\adminform.pdb
+C:\InternetCafeProject\AdminServer\adminform\adminform\obj\Debug\adminform.csproj.AssemblyReference.cache
+C:\InternetCafeProject\AdminServer\adminform\adminform\obj\Debug\adminform.Form1.resources
+C:\InternetCafeProject\AdminServer\adminform\adminform\obj\Debug\adminform.Properties.Resources.resources
+C:\InternetCafeProject\AdminServer\adminform\adminform\obj\Debug\adminform.csproj.GenerateResource.cache
+C:\InternetCafeProject\AdminServer\adminform\adminform\obj\Debug\adminform.csproj.CoreCompileInputs.cache
+C:\InternetCafeProject\AdminServer\adminform\adminform\obj\Debug\adminform.exe
+C:\InternetCafeProject\AdminServer\adminform\adminform\obj\Debug\adminform.pdb

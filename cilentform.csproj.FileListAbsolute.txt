@@ -1,0 +1,10 @@
+C:\InternetCafeProject\ClientDevice\cilentform\cilentform\bin\Debug\cilentform.exe.config
+C:\InternetCafeProject\ClientDevice\cilentform\cilentform\bin\Debug\cilentform.exe
+C:\InternetCafeProject\ClientDevice\cilentform\cilentform\bin\Debug\cilentform.pdb
+C:\InternetCafeProject\ClientDevice\cilentform\cilentform\obj\Debug\cilentform.csproj.AssemblyReference.cache
+C:\InternetCafeProject\ClientDevice\cilentform\cilentform\obj\Debug\cilentform.Form1.resources
+C:\InternetCafeProject\ClientDevice\cilentform\cilentform\obj\Debug\cilentform.Properties.Resources.resources
+C:\InternetCafeProject\ClientDevice\cilentform\cilentform\obj\Debug\cilentform.csproj.GenerateResource.cache
+C:\InternetCafeProject\ClientDevice\cilentform\cilentform\obj\Debug\cilentform.csproj.CoreCompileInputs.cache
+C:\InternetCafeProject\ClientDevice\cilentform\cilentform\obj\Debug\cilentform.exe
+C:\InternetCafeProject\ClientDevice\cilentform\cilentform\obj\Debug\cilentform.pdb
